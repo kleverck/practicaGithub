@@ -7,7 +7,7 @@ and open the template in the editor.
 <html>
     <head>
         <meta charset="UTF-8">
-        <title>Amazzon</title>
+        <title>Amazzon_Editacion</title>
     </head>
     <body>
            
